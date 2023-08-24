@@ -1,0 +1,16 @@
+{
+  "name": "udemy_nextjs_e_react_curso_completo_aprenda_com_projetos_secao_10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "Leonardo <leonardojosantos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
